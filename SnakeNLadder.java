@@ -36,15 +36,7 @@ public class SnakeNLadder {
         ladder.put(46,90);
         ladder.put(17,69);
     }
-     
-     
-//TO-DO Methods
- 
-//public int rollDice(){...}
-//public int calculatePlayerValue(int player, int diceValue){...}
-//public boolean isWin(int player){...}
-//public void startGame(){...}
-    
+
     
     public int rollDice()
 {
